@@ -44,19 +44,14 @@ header .green-marquee {
   justify-content: space-around; }
 
 .companies {
-  background: linear-gradient(to bottom, #236bd1 0, #236bd1 50%, #d3e1f5 50%, #d3e1f5 100%);
-  min-height: 450px; }
+  background: linear-gradient(to bottom, #236bd1 0, #236bd1 50%, #d3e1f5 50%, #d3e1f5 100%); }
 
 .companies h2 {
   color: white; }
 
 .card {
   margin: 10px;
-  max-width: 266px;
-  border-radius: 6px; }
-
-.cta {
-  height: 450px; }
+  max-width: 266px; }
 
 .carousel-item {
   height: 450px; }
@@ -68,16 +63,16 @@ header .green-marquee {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E"); }
 
 .carousel-caption {
-  color: #5e5e5e; }
+  color: white; }
 
 .carousel-image-1 {
-  background: #f7f7f7; }
+  background: #333; }
 
 .carousel-image-2 {
-  background: #f7f7f7; }
+  background: #333; }
 
 .carousel-image-3 {
-  background: #f7f7f7; }
+  background: #333; }
 
 .btn-primary {
   background-color: #ff6700;
